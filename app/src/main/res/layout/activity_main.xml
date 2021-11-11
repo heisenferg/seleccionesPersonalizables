@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="193dp"
-        android:layout_height="84dp"
+        android:layout_width="148dp"
+        android:layout_height="86dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/spinnerProvincias"
         app:layout_constraintHorizontal_bias="0.0"
@@ -20,8 +20,8 @@
 
     <Spinner
         android:id="@+id/spinnerProvincias"
-        android:layout_width="224dp"
-        android:layout_height="29dp"
+        android:layout_width="253dp"
+        android:layout_height="28dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
